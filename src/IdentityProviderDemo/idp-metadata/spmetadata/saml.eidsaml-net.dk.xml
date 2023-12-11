@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<q1:EntityDescriptor entityID="https://saml.eidsaml-net.dk" validUntil="2023-04-25T07:35:28.8723741Z" ID="idb205737f3bcf47fe803ffb42035f8624" xmlns:q1="urn:oasis:names:tc:SAML:2.0:metadata">
+	<q1:SPSSODescriptor protocolSupportEnumeration="urn:oasis:names:tc:SAML:2.0:protocol" AuthnRequestsSigned="true" WantAssertionsSigned="true">
+		<q1:KeyDescriptor use="signing">
+			<KeyInfo xmlns="http://www.w3.org/2000/09/xmldsig#">
+				<X509Data>
+					<X509Certificate>MIIDKDCCAhCgAwIBAgIQew72AV+HB5pGewdnefbFMjANBgkqhkiG9w0BAQUFADAnMSUwIwYDVQQDDBxlaWRzYW1sIHRlc3Qgc2VydmljZXByb3ZpZGVyMB4XDTIzMDQxNzA2NDAzMloXDTI5MTIzMTIyMDAwMFowJzElMCMGA1UEAwwcZWlkc2FtbCB0ZXN0IHNlcnZpY2Vwcm92aWRlcjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALEbAEeIQf5mkERWR3vP0ME6epRlZF5M6hvG/Jsn135tEcyK07qOXW5fzVC8G6G+56kv3unDgz1iI/iGzLoGROT6eSl/xPplZ5/q7+w7i8lkpccFgzPANKaVDvAVbWQ8TPYvcwbPblXmn0oILNhBMug5kq0KZYOulBUv3H/l96G6sjSoUkHLOvPjTEsZkgetQmG4sCfOMr1C4TE9k9sLE7a0yC/fRcw3PyRIyUAqAwk4aN/GPfY/js77T7rVr3tHh7M8UYUiu4rM5ktJXCaKdtx1iMDkgBfj80+LbYJBKuf+bBKeYvMkQHA5wIuKA2rBo5N8XbOmhfT4giUf4mKn+38CAwEAAaNQME4wDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDATAdBgNVHQ4EFgQUvANda9M4+K+b5VVxFJ2P2EDZcmkwDQYJKoZIhvcNAQEFBQADggEBAJk6JkIZe8J7KbOTXawPfoLsWNKkoaQw4ClbgkL4CL3DatwLlgkEmHRKFg03N5fT9TFyJpmH5RqJKmiPfb6HkNMZDXC/hHsTT2qJ+4V5JugZL07y93NqjP9uCIL2F2lBlM+KeyaAbGQX4HIYPEeb8bG8B+2E8/2aaydWDexZoY56x95u5noyhASajCafgVSGKqGQGm8jhTJCcjtvH2iv8b9W8p8GcE0z128nYCzpWCULsV0RsiQTl+SAlihvXAbOYRPwZJaypum+kPTMdsFsTbhnGJ9dwAhLdaFTlLGamoqcoj7CAhuVRdIMGtETFNL5bJUk9CxkZG9/3hCronNDCqA=</X509Certificate>
+				</X509Data>
+			</KeyInfo>
+		</q1:KeyDescriptor>
+		<q1:KeyDescriptor use="encryption">
+			<KeyInfo xmlns="http://www.w3.org/2000/09/xmldsig#">
+				<X509Data>
+					<X509Certificate>MIIDKDCCAhCgAwIBAgIQew72AV+HB5pGewdnefbFMjANBgkqhkiG9w0BAQUFADAnMSUwIwYDVQQDDBxlaWRzYW1sIHRlc3Qgc2VydmljZXByb3ZpZGVyMB4XDTIzMDQxNzA2NDAzMloXDTI5MTIzMTIyMDAwMFowJzElMCMGA1UEAwwcZWlkc2FtbCB0ZXN0IHNlcnZpY2Vwcm92aWRlcjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALEbAEeIQf5mkERWR3vP0ME6epRlZF5M6hvG/Jsn135tEcyK07qOXW5fzVC8G6G+56kv3unDgz1iI/iGzLoGROT6eSl/xPplZ5/q7+w7i8lkpccFgzPANKaVDvAVbWQ8TPYvcwbPblXmn0oILNhBMug5kq0KZYOulBUv3H/l96G6sjSoUkHLOvPjTEsZkgetQmG4sCfOMr1C4TE9k9sLE7a0yC/fRcw3PyRIyUAqAwk4aN/GPfY/js77T7rVr3tHh7M8UYUiu4rM5ktJXCaKdtx1iMDkgBfj80+LbYJBKuf+bBKeYvMkQHA5wIuKA2rBo5N8XbOmhfT4giUf4mKn+38CAwEAAaNQME4wDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDATAdBgNVHQ4EFgQUvANda9M4+K+b5VVxFJ2P2EDZcmkwDQYJKoZIhvcNAQEFBQADggEBAJk6JkIZe8J7KbOTXawPfoLsWNKkoaQw4ClbgkL4CL3DatwLlgkEmHRKFg03N5fT9TFyJpmH5RqJKmiPfb6HkNMZDXC/hHsTT2qJ+4V5JugZL07y93NqjP9uCIL2F2lBlM+KeyaAbGQX4HIYPEeb8bG8B+2E8/2aaydWDexZoY56x95u5noyhASajCafgVSGKqGQGm8jhTJCcjtvH2iv8b9W8p8GcE0z128nYCzpWCULsV0RsiQTl+SAlihvXAbOYRPwZJaypum+kPTMdsFsTbhnGJ9dwAhLdaFTlLGamoqcoj7CAhuVRdIMGtETFNL5bJUk9CxkZG9/3hCronNDCqA=</X509Certificate>
+				</X509Data>
+			</KeyInfo>
+		</q1:KeyDescriptor>
+		<q1:NameIDFormat>urn:oasis:names:tc:SAML:2.0:nameid-format:persistent</q1:NameIDFormat>
+		<q1:AssertionConsumerService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST" Location="https://eidsaml-net.dk:30002/login.ashx" index="0" isDefault="true" />
+		<q1:AttributeConsumingService index="0" isDefault="true">
+			<q1:ServiceName xml:lang="da">Test Service Provider</q1:ServiceName>
+			<q1:RequestedAttribute Name="dk:gov:saml:attribute:eidas:naturalperson:PersonIdentifier" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:basic" FriendlyName="PersonIdentifier" isRequired="true" />
+			<q1:RequestedAttribute Name="dk:gov:saml:attribute:eidas:naturalperson:CurrentFamilyName" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:basic" FriendlyName="FamilyName" isRequired="true" />
+			<q1:RequestedAttribute Name="dk:gov:saml:attribute:eidas:naturalperson:CurrentGivenName" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:basic" FriendlyName="FirstName" isRequired="true" />
+			<q1:RequestedAttribute Name="dk:gov:saml:attribute:eidas:naturalperson:DateOfBirth" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:basic" FriendlyName="DateOfBirth" isRequired="true" />
+			<q1:RequestedAttribute Name="dk:gov:saml:attribute:eidas:naturalperson:BirthName" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:basic" FriendlyName="BirthName" />
+			<q1:RequestedAttribute Name="dk:gov:saml:attribute:eidas:naturalperson:PlaceOfBirth" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:basic" FriendlyName="PlaceOfBirth" />
+			<q1:RequestedAttribute Name="dk:gov:saml:attribute:eidas:naturalperson:CurrentAddress" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:basic" FriendlyName="CurrentAddress" />
+			<q1:RequestedAttribute Name="dk:gov:saml:attribute:eidas:naturalperson:Gender" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:basic" FriendlyName="Gender" />
+			<q1:RequestedAttribute Name="dk:gov:saml:attribute:CprNumberIdentifier" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:basic" FriendlyName="CprNumber" />
+			<q1:RequestedAttribute Name="dk:gov:saml:attribute:CprNumberIdentifier:context" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:basic" FriendlyName="CprNumberContext">
+				<AttributeValue xmlns="urn:oasis:names:tc:SAML:2.0:assertion">https://data.gov.dk/attributes/coupling/loa/Substantial</AttributeValue>
+			</q1:RequestedAttribute>
+		</q1:AttributeConsumingService>
+	</q1:SPSSODescriptor>
+	<q1:ContactPerson contactType="administrative">
+		<q1:Company>NNIT A/S</q1:Company>
+		<q1:GivenName>John</q1:GivenName>
+		<q1:SurName>Administrator</q1:SurName>
+		<q1:EmailAddress>no-reply@nnit.com</q1:EmailAddress>
+		<q1:TelephoneNumber>00000000</q1:TelephoneNumber>
+	</q1:ContactPerson>
+</q1:EntityDescriptor>

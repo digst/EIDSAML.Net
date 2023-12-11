@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<FileConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BaseUrl>https://eidsaml-demoidp.dk:30001/</BaseUrl>
+  <certThumbPrint>24977762c29e63e0445cf956de81912c38db2bcc</certThumbPrint>
+  <certLocation>LocalMachine</certLocation>
+  <certStore>My</certStore>
+</FileConfig>

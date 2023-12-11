@@ -1,0 +1,1 @@
+See https://github.com/digst/EIDSAML.Net/blob/master/Net%20SAML2%20Service%20Provider%20Framework.docx for documentaion on how to use the EIDSAML.Net component.
