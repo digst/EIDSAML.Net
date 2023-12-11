@@ -8,8 +8,6 @@ This is the codebase that the EIDSAML.Net components are built from.
 
 ## Resource links
 
-*   [Project maintenance]([LINK HERE])
-*   [Nuget packages (prefixed eid.saml20)]([LINK HERE])
 *   [Code repository](hhttps://github.com/digst/eIDASSAML.Net)
 
 ## Repository content
